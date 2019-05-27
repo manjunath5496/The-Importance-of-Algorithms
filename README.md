@@ -24,7 +24,9 @@
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Biology-Books/blob/master/alg(22).pdf" style="text-decoration:none;">An Introduction to Algorithmic Trading: Basic to Advanced Strategies </a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Biology-Books/blob/master/alg(23).pdf" style="text-decoration:none;">Data Structures and Algorithms in Python </a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Biology-Books/blob/master/alg(24).pdf" style="text-decoration:none;">Data Structures and Algorithms with JavaScript</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Biology-Books/blob/master/alg(26).pdf" style="text-decoration:none;">Data Structures And Algorithms <span style ="color:red">Made Easy</span> </a></b></li>
+                                     <li><b><a target="_blank" href="https://github.com/manjunath5496/Biology-Books/blob/master/alg(25).pdf" style="text-decoration:none;">Algorithms For Dummies</a></b></li>
+                                     
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Biology-Books/blob/master/alg(26).pdf" style="text-decoration:none;">Data Structures And Algorithms <span style ="color:red">Made Easy</span> </a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Biology-Books/blob/master/alg(27).pdf" style="text-decoration:none;">Data Structures and Algorithms with Python </a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Biology-Books/blob/master/alg(28).pdf" style="text-decoration:none;">Disk-Based Algorithms for Big Data </a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Biology-Books/blob/master/alg(29).pdf" style="text-decoration:none;">Dynamic Programming: A Computational Tool</a></b></li>
