@@ -10,10 +10,36 @@
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Biology-Books/blob/master/alg(9).pdf" style="text-decoration:none;">Algorithms for Bioinformatics: Lecture 3: Greedy Algorithms and Genomic Rearrangements </a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Biology-Books/blob/master/alg(10).pdf" style="text-decoration:none;">How to Think About Algorithms </a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Biology-Books/blob/master/alg(11).pdf" style="text-decoration:none;">Algorithm Theory – SWAT 2004</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Biology-Books/blob/master/alg(12).pdf" style="text-decoration:none;">The Body Electric</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Biology-Books/blob/master/alg(13).pdf" style="text-decoration:none;">The Emperor of All Maladies </a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Biology-Books/blob/master/alg(14).pdf" style="text-decoration:none;">The Selfish Gene</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Biology-Books/blob/master/alg(15).pdf" style="text-decoration:none;">The Blind Watchmaker </a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Biology-Books/blob/master/alg(16).pdf" style="text-decoration:none;">The Voyage of <span style ="color:red">the Beagle</span> </a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Biology-Books/blob/master/alg(17).pdf" style="text-decoration:none;">The Double Helix: A Personal Account of the Discovery of the Structure of DNA </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Biology-Books/blob/master/alg(12).pdf" style="text-decoration:none;">Algorithmic Foundations of Robotics XI</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Biology-Books/blob/master/alg(13).pdf" style="text-decoration:none;">Algorithmic Topology of 3-Manifolds and Classification</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Biology-Books/blob/master/alg(14).pdf" style="text-decoration:none;">Algorithms for 5G physical layer</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Biology-Books/blob/master/alg(15).rar" style="text-decoration:none;">Algorithmic Foundation of Robotics VII </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Biology-Books/blob/master/alg(16).pdf" style="text-decoration:none;">Algorithms for <span style ="color:red">Sensor Systems</span> </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Biology-Books/blob/master/alg(17).rar" style="text-decoration:none;">Algorithms </a></b></li>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
                             </ul>
