@@ -43,4 +43,63 @@
                                
  
  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(40).pdf" style="text-decoration:none;">Algorithmic Trading and DMA: An Introduction to Direct Access Trading Strategies </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(41).pdf" style="text-decoration:none;">Algorithms and Complexity</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(42).pdf" style="text-decoration:none;"><span style ="color:red">Algorithms:</span> a functional programm1ng approach </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(43).pdf" style="text-decoration:none;">Algorithms and Protocols for Wireless Sensor Networks</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(44).pdf" style="text-decoration:none;">Computer Arithmetic Algorithms</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(45).pdf" style="text-decoration:none;">Internet Security: Cryptographic Principles, Algorithms and Protocols </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(46).pdf" style="text-decoration:none;">Introduction to Genetic Algorithms </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(47).pdf" style="text-decoration:none;">Introduction to Parallel Processing:
+<span style ="color:red">Algorithms</span> and Architectures</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(48).pdf" style="text-decoration:none;">Experimental Algorithmics </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(49).pdf" style="text-decoration:none;">Harmony Search Algorithm </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(50).pdf" style="text-decoration:none;">Machine Learning For Dummies</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(51).pdf" style="text-decoration:none;">C Programming: Data Structures and Algorithms</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(52).pdf" style="text-decoration:none;">Mathematical and Algorithmic Foundations of the Internet</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(53).pdf" style="text-decoration:none;">Practical Algorithms in Pediatric Hematology and Oncology</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(54).pdf" style="text-decoration:none;">Python Deep Learning </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(55).pdf" style="text-decoration:none;">CS1102S: <span style ="color:red">Data Structures and Algorithms</span> </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(56).pdf" style="text-decoration:none;">Statistical Arbitrage: Algorithmic Trading Insights and Techniques </a></b></li>
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(57).pdf" style="text-decoration:none;">Stochastic Algorithms for Visual Tracking</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(58).pdf" style="text-decoration:none;">Successful Algorithmic Trading</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(59).pdf" style="text-decoration:none;"><span style ="color:red">Understanding Machine Learning:</span>
+From Theory to Algorithms </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(60).pdf" style="text-decoration:none;">Competitive Programmer's Handbook</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(61).pdf" style="text-decoration:none;">Planning Algorithms </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(62).pdf" style="text-decoration:none;">Clojure Data Structures and Algorithms Cookbook </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(63).pdf" style="text-decoration:none;">Accuracy and Stability of Numerical Algorithms</a></b></li>
+                                     <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(64).pdf" style="text-decoration:none;">Algorithms for Diophantine Equations</a></b></li>
+                                     
+<li><b><a target="_blank" href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(65).pdf" style="text-decoration:none;">Algorithms For <span style ="color:red">Interviews</span> </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(66).pdf" style="text-decoration:none;">Algorithms for Next Generation Networks </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(67).pdf" style="text-decoration:none;">Algorithms for Parallel Polygon Rendering </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(68).pdf" style="text-decoration:none;">Algorithms on Strings</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(69).pdf" style="text-decoration:none;">Approximate Iterative Algorithms</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(70).pdf" style="text-decoration:none;">Approximation Algorithms</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(71).pdf" style="text-decoration:none;">Biologically Inspired Algorithms for Financial Modelling</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(72).pdf" style="text-decoration:none;">Boolean Functions: Theory, Algorithms, and Applications </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(73).pdf" style="text-decoration:none;">Cellular s<span style ="color:red">Genetic Algorithm</span> </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(74).pdf" style="text-decoration:none;">Encyclopedia of Algorithms</a></b></li> 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(75).pdf" style="text-decoration:none;">Monte Carlo: Concepts, Algorithms, and Applications</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(76).pdf" style="text-decoration:none;">Multiobjective Evolutionary Algorithms and Applications</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(77).pdf" style="text-decoration:none;">Algorithm Design </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(78).pdf" style="text-decoration:none;">Analysis of Algorithms: <span style ="color:red">An Active Learning Approach</span> </a></b></li>
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 </ul>
