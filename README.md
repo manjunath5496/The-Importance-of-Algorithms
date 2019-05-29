@@ -142,7 +142,28 @@ From Theory to Algorithms </a></b></li>
                                 <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(131).pdf">Scheduling Algorithms</a></b></li>
                                 <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(132).pdf">Shadow Algorithms Data Miner </a></b></li> 
  
- 
+<li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(133).pdf">Binary Quadratic Forms: An Algorithmic Approach</a></b></li>
+                                <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(134).pdf">Fundamental Algorithms</a></b></li>
+                                <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(135).pdf">Data Mining Algorithms in C++ </a></b></li>
+                                <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(136).pdf">Computer Vision: Algorithms and Applications</a></b></li>
+                                <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(137).pdf">Elementary Functions: Algorithms and Implementation</a></b></li>
+                                <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(138).pdf">Fast Algorithms for Signal Processing </a></b></li>
+                                <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(139).pdf">Information Retrieval Architecture and Algorithms </a></b></li>
+                                <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(140).pdf">Lossy Image Compression: Domain Decomposition-Based Algorithms</a></b></li>
+                                <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(141).pdf">Practical Genetic Algorithms</a></b></li>
+                                <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(142).pdf">Recent Advances in Algorithms and Combinatorics</a></b></li>
+                                <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(143).pdf">Software Tools and Algorithms for Biological Systems</a></b></li>
+                                <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(144).pdf">Super-Recursive Algorithms</a></b></li>
+                                <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(145).pdf">Synthesis and optimization of DSP algorithms</a></b></li>
+                                <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(146).pdf">Text Algorithms</a></b></li>
+                                <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(147).pdf">The Design of Approximation Algorithms</a></b></li>
+                                <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(148).pdf">Visibility Algorithms in the Plane </a></b></li>
+                                <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(149).pdf">Parallel Graph Algorithms</a></b></li>
+  <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(150).pdf">Algorithms: Greedy Algorithms</a></b></li>
+                                <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(151).pdf">Introduction to the Design and Analysis of Algorithms</a></b></li>
+                                <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(152).pdf">Introduction to Algorithms </a></b></li>
+								
+								 
  
  
  
