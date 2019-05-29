@@ -45,7 +45,7 @@
  
 <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(40).pdf" style="text-decoration:none;">Algorithmic Trading and DMA: An Introduction to Direct Access Trading Strategies </a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(41).pdf" style="text-decoration:none;">Algorithms and Complexity</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(42).pdf" style="text-decoration:none;"><span style ="color:red">Algorithms:</span> a functional programm1ng approach </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(42).pdf" style="text-decoration:none;"><span style ="color:red">Algorithms:</span> a functional programming approach </a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(43).pdf" style="text-decoration:none;">Algorithms and Protocols for Wireless Sensor Networks</a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(44).pdf" style="text-decoration:none;">Computer Arithmetic Algorithms</a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(45).pdf" style="text-decoration:none;">Internet Security: Cryptographic Principles, Algorithms and Protocols </a></b></li>
