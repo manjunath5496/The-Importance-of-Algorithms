@@ -289,6 +289,8 @@ Algorithm</a></b></li>
                                 <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(231).pdf">The Jacobi-Perron Algorithm Its Theory and Application</a></b></li>   
  
 
+<li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(232).pdf">Computer Science Distilled: Learn the Art of Solving Computational Problems</a></b></li>   
+				
 <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(233).pdf">Algorithm Collections for Digital Signal Processing Applications Using Matlab</a></b></li>
                                 <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(234).pdf">Hierarchical Bayesian Optimization Algorithm: Toward a New Generation of Evolutionary Algorithms</a></b></li>   
  
@@ -304,7 +306,10 @@ constrained quadratic programming</a></b></li>
                                 <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(239).pdf">The EM Algorithm and Related Statistical Models</a></b></li> 
  
 <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(240).pdf">Pearls of Functional Algorithm Design </a></b></li>
-                                <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(242).pdf">Mathematics for Algorithm and System Analysis</a></b></li>    
+ 
+<li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(241).pdf">Structure and Interpretation
+of Computer Programs </a></b></li>
+  <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(242).pdf">Mathematics for Algorithm and System Analysis</a></b></li>    
  
 
  
