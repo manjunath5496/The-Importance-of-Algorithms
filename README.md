@@ -362,5 +362,17 @@ Exploring the Power of Computing</a></b></li>
    <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(264).pdf">Open Data Structures (in pseudocode)</a></b></li>    
  
    <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(265).pdf">Think Complexity</a></b></li>    
+  <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(266).pdf">Advanced Data Structures</a></b></li>    
+ 
+   <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(267).pdf">Streaming Data Mining</a></b></li>    
+ 
+   <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(268).pdf">How to Think Like a Computer Scientist</a></b></li>    
+
+
+
+
+
+
+
 
 </ul>
