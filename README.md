@@ -2,7 +2,6 @@
 
 
 <h3>Top Algorithm books Every Programmer Should Read</h3>
-<p>&nbsp;</p>
 
 <hr>
 
