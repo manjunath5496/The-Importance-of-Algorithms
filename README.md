@@ -1,7 +1,7 @@
 
 
 
-<h3>Top Algorithm books Every Programmer Should Read</h3>
+<h3>Top Algorithm Books Every Programmer Should Read</h3>
 
 <hr>
 
