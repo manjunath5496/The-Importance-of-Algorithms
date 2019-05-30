@@ -335,5 +335,25 @@ Statistical Learning: Data Mining, Inference, and Prediction </a></b></li>
  
   <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(254).rar">Hello World!: Computer Programming for Kids and Other Beginners</a></b></li>  
  
+ <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(255).pdf">Vector Models for Data-Parallel Computing </a></b></li>
+  <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(256).pdf">Analysis for Computer
+Scientists: Foundations, Methods, and Algorithms</a></b></li>   
  
+ <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(257).pdf">The Everyday Life of an Algorithm </a></b></li>
+  <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(258).pdf">Introduction
+to Design and Analysis of Algorithms - In Simple Way</a></b></li> 
+ 
+  <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(259).pdf">Knapsack Problems</a></b></li>   
+<li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(260).pdf">AI Algorithms, Data Structures, and Idioms in Prolog, Lisp, and Java </a></b></li>
+  <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(261).pdf">Models of Computation:
+Exploring the Power of Computing</a></b></li> 
+ 
+  <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(262).pdf">Open Data Structures (in C++)</a></b></li>   
+  
+  <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(263).pdf">Open Data Structures (in Java)</a></b></li>    
+ 
+   <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(264).pdf">Open Data Structures (in pseudocode)</a></b></li>    
+ 
+   <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(265).pdf">Think Complexity</a></b></li>    
+
 </ul>
