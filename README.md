@@ -4,7 +4,7 @@
 <h3>Top Algorithm books Every Programmer Should Read</h3>
 <p>&nbsp;</p>
 
-</hr>
+<hr>
 
 <ul>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(1).pdf" style="text-decoration:none;">Introduction to Data Science Algorithms</a></b></li>
