@@ -1,7 +1,7 @@
 
 
 
-<h3>Best Algorithm Books: 268 Books to Read and Distinguish Yourself</h3>
+<h3>Best Algorithm Books: 250+ Books to Read and Distinguish Yourself</h3>
 
 <hr>
 
