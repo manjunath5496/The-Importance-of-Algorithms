@@ -311,14 +311,29 @@ constrained quadratic programming</a></b></li>
 of Computer Programs </a></b></li>
   <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(242).pdf">Mathematics for Algorithm and System Analysis</a></b></li>    
  
+<li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(243).pdf">A Common-Sense Guide to Data
+Structures and Algorithms</a></b></li>
+                                <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(244).pdf">Concrete Mathematics</a></b></li> 
+ 
+<li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(245).pdf">Ideals, Varieties,
+and Algorithms </a></b></li>
+ 
+<li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(246).rar">Machine Learning Refined </a></b></li>
+  <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(247).pdf">Decision Making under Uncertainty</a></b></li>  
+ 
+<li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(248).pdf">Principles of Data Mining </a></b></li>
+  <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(249).pdf">The Algorithmic Foundations
+of Differential Privacy</a></b></li>  
 
+ <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(250).pdf">The Nature of Code </a></b></li>
+  <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(251).pdf">Reinforcement Learning:
+An Introduction</a></b></li>   
  
+ <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(252).pdf">The Elements of
+Statistical Learning: Data Mining, Inference, and Prediction </a></b></li>
+  <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(253).pdf">The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World</a></b></li> 
  
- 
- 
- 
- 
- 
+  <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(254).rar">Hello World!: Computer Programming for Kids and Other Beginners</a></b></li>  
  
  
 </ul>
