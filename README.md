@@ -230,6 +230,50 @@ data compression algorithms</a></b></li>
 <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(200).pdf">Problem Solving with Algorithms and Data Structures </a></b></li>
                                 <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(201).pdf">Knowing algorithms</a></b></li>  
  
+<li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(202).pdf">Tunability: Importance of Hyperparameters of Machine Learning Algorithms </a></b></li>
+                                <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(203).pdf">Trust But Verify: A Guide to Algorithms and the Law</a></b></li> 
+   
+<li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(204).pdf">Algorithm and Flow Chart</a></b></li>
+                                <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(205).pdf">The Learning Behind Gmail Priority Inbox</a></b></li>   
+ 
+
+<li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(206).rar">Invitation to Computer Science</a></b></li>
+                                <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(207).pdf">Algorithms in Everyday Mathematics</a></b></li>   
+ 
+<li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(208).pdf">Auditing Algorithms:
+Research Methods for Detecting Discrimination on Internet Platforms</a></b></li>   
+ 
+
+<li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(209).pdf">The Running Time
+of Programs</a></b></li>
+                                <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(210).pdf">Parallel Programming and Parallel Algorithms</a></b></li>    
+ 
+
+<li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(211).pdf">Logic and Theory of Algorithms</a></b></li>
+                                <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(212).pdf">Study of Page Rank Algorithms</a></b></li> 
+ 
+<li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(213).pdf">What is an Evolutionary Algorithm? </a></b></li>
+                                <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(214).pdf">Web Crawling Algorithms</a></b></li>    
+ 
+
+<li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(215).pdf">Algorithmic
+Puzzles</a></b></li>
+                                <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(216).pdf">The Social Power of Algorithms </a></b></li>  
+				
+<li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(217).pdf">Introduction to Algorithms: A Creative Approach</a></b></li>    
+ 
+
+<li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(218).pdf">Google's Deep-Web
+Crawl</a></b></li>
+                                <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(219).pdf">Algorithmic Game Theory  </a></b></li>  			
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
  
  
