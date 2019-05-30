@@ -209,6 +209,29 @@ data compression algorithms</a></b></li>
                                 <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(186).pdf">Instructor's Manual: Introduction to Algorithms </a></b></li>
                                 <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(187).pdf">Principles of Robot Motion: Theory, Algorithms, and Implementation</a></b></li>   
  
+ <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(188).pdf">Top 10 algorithms in data mining</a></b></li>  
+ 
+  <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(189).pdf">Algorithms, Flowcharts, Data Types, and Pseudo-codes </a></b></li>
+                                <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(190).pdf">Auction Algorithms </a></b></li>
+                                <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(191).pdf">The CYK Algorithm</a></b></li> 
+ 
+ <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(192).pdf">Types of Machine Learning Algorithms</a></b></li>  
+ 
+  <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(193).pdf">Types of Algorithms  </a></b></li>
+                                <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(194).pdf">Algorithms and Collusion: Competition Policy in the Digital Age </a></b></li>
+                                <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(195).pdf">Complexity of Algorithms</a></b></li> 
+  
+ <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(196).pdf">The Relevance of Algorithms</a></b></li>  
+ 
+  <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(197).pdf">Algorithm Specification  </a></b></li>
+                                <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(198).pdf">Some introductory notes on Design and Analysis of Algorithms </a></b></li>
+                                <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(199).pdf">Principles of Algorithmic Problem Solving</a></b></li> 
+   
+<li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(200).pdf">Problem Solving with Algorithms and Data Structures </a></b></li>
+                                <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(201).pdf">Knowing algorithms</a></b></li>  
+ 
+ 
+ 
  
  
  
