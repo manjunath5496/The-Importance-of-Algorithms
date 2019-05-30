@@ -1,4 +1,31 @@
-
+<p><strong>Introduction</strong></p>
+<p><strong>&nbsp;</strong></p>
+<p style="text-align: justify;">You might have an algorithm for getting from office to home, for making a chunk of code that calculates the terms of the Fibonacci sequence, or for finding what you&rsquo;re looking for in a retail store. Algorithms are very important in computer Science. Algorithms are the building blocks of computer programs or sequence of unambiguous instructions ( the term 'unambiguous' indicates that there is no room for subjective interpretation) that tells how the problem could be addressed and solved -- which is definitely overblown in their importance like road maps for accomplishing a given, well-defined automated reasoning task -- which always have a clear stopping point.</p>
+<p>&nbsp;</p>
+<p style="text-align: justify;">Long division and column addition are examples that everyone is familiar with -- even a simple function for adding two numbers is implementation of a particular algorithm. Online grammar checking uses algorithms. Financial computations use algorithms. A search engine like Google uses search engine algorithms (such as, takes search strings of keywords as input, searches its associated database for relevant web pages, and returns results). In fact, it is difficult to think of a task performed by your computer that does not use computer rules that are a lot like a recipes (called algorithms).</p>
+<p>&nbsp;</p>
+<p><strong>The algorithm to add two numbers entered by user would look something like this:</strong></p>
+<p>&nbsp;</p>
+<p>&nbsp; Step 1: Start</p>
+<p>&nbsp;</p>
+<p>&nbsp; Step 2: Declare variables num1, num2 and sum.</p>
+<p>&nbsp;</p>
+<p>&nbsp; Step 3: Read values num1 and num2.</p>
+<p>&nbsp;</p>
+<p>&nbsp; Step 4: Add num1 and num2 and assign the result to sum.</p>
+<p>&nbsp;</p>
+<p>&nbsp; sum &larr; num1 + num2</p>
+<p>&nbsp;</p>
+<p>&nbsp; Step 5: Display sum</p>
+<p>&nbsp;</p>
+<p>&nbsp;&nbsp;Step 6: Stop</p>
+<p>&nbsp;</p>
+<p><strong>The Importance of Algorithms</strong></p>
+<p>&nbsp;</p>
+<p>Algorithms are the heart of computer science (usually means a procedure or basically instance of logic written in software that solves a recurrent problem of finding an item with specific properties among collection of items or transforming data according to specified actions to protect it), and the subject has countless practical applications as well as intellectual depth that is widely used throughout all areas of information technology including solving a mathematical problem (as of finding the greatest common divisor ) in a finite number of steps that often involves repetition of an operation . The word algorithm -- a mathematical concept whose roots date back to 600 AD with invention of the decimal system - - derives from the name of the Muslim mathematician and astronomer , Mohammed ibn-Musa al-Khwarizmi , who was part of the royal court in Baghdad and who lived from about 780 to 850.</p>
+<p>&nbsp;</p>
+<p>The use of computers, however, has raised the use of algorithms in daily transactions (like accessing an automated teller machine (ATM ), booking an air or train or buying something online ) to unprecedented levels of real-world problems with solutions requiring advanced algorithms abounds . And their use is only likely to grow. Many of the problems, though they may not seem realistic, need the set of well-defined algorithmic knowledge that comes up every day in the real world. By developing a good understanding of a series of logical steps in an algorithmic language, you will be able to choose the right one for a problem and apply it properly.</p>
+<p>&nbsp;</p>
 
 
 <h3>Best Algorithm Books: 250+ Books to Read and Distinguish Yourself</h3>
