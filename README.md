@@ -269,9 +269,44 @@ Crawl</a></b></li>
  
  
  
+ <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(220).pdf">Computer Age Statistical Inference: Algorithms, Evidence, and Data Science </a></b></li>
+                                <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(221).pdf">Computational Geometry: Algorithms and Applications</a></b></li> 
+  
+ <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(222).pdf">Automate This: How Algorithms Came to Rule Our World</a></b></li>  
  
+  <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(223).pdf">Notes on PageRank Algorithm  </a></b></li>
+                                <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(224).pdf">Algorithmic Harms beyond Facebook and Google: Emergent Challenges of Computational Agency  </a></b></li>
+                                <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(225).pdf">Data Structures and Algorithms Tutorial</a></b></li> 
+   
+<li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(226).pdf">Graph-based Ranking Algorithms for Sentence Extraction, Applied to Text Summarization </a></b></li>
+                                <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(227).pdf">Understanding Google Algorithms And Seo Is Essential For Online Marketer</a></b></li>  
  
+<li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(228).pdf">First Course in Algorithms through Puzzles </a></b></li>
+                                <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(229).pdf">Machines first, humans second: on the importance of algorithmic interpretation of open chemistry data</a></b></li> 
+   
+<li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(230).pdf">The Alphabet and the
+Algorithm</a></b></li>
+                                <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(231).pdf">The Jacobi-Perron Algorithm Its Theory and Application</a></b></li>   
  
+
+<li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(233).pdf">Algorithm Collections for Digital Signal Processing Applications Using Matlab</a></b></li>
+                                <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(234).pdf">Hierarchical Bayesian Optimization Algorithm: Toward a New Generation of Evolutionary Algorithms</a></b></li>   
+ 
+<li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(235).pdf">The LLL Algorithm: Survey and Applications</a></b></li>   
+ 
+
+<li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(236).pdf">System Theory, the Schur Algorithm and Multidimensional Analysis</a></b></li>
+                                <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(237).pdf">A branch and cut algorithm for nonconvex quadratically
+constrained quadratic programming</a></b></li>    
+ 
+
+<li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(238).pdf">A Programmer's Companion to Algorithm Analysis</a></b></li>
+                                <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(239).pdf">The EM Algorithm and Related Statistical Models</a></b></li> 
+ 
+<li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(240).pdf">Pearls of Functional Algorithm Design </a></b></li>
+                                <li><b><a href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(242).pdf">Mathematics for Algorithm and System Analysis</a></b></li>    
+ 
+
  
  
  
