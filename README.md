@@ -1,3 +1,11 @@
+
+
+
+<h3>Top Algorithm books Every Programmer Should Read</h3>
+<p>&nbsp;</p>
+
+</hr>
+
 <ul>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(1).pdf" style="text-decoration:none;">Introduction to Data Science Algorithms</a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Importance-of-Algorithms/blob/master/alg(2).pdf" style="text-decoration:none;">High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems</a></b></li>
