@@ -8,33 +8,32 @@
 </ul>
 <p><strong>&nbsp;</strong></p>
 <p><strong>The algorithm for a child's morning routine could be the following:</strong></p>
-<p>Step 1:&nbsp; Wake up and turn off alarm</p>
-<p>Step 2:&nbsp; Get dressed</p>
-<p>Step 3:&nbsp; Brush teeth</p>
-<p>Step 4:&nbsp; Eat breakfast</p>
-<p>Step 5:&nbsp; Go to school</p>
-<p>&nbsp;</p>
+<p><strong>Step 1:&nbsp;</strong> Wake up and turn off alarm</p>
+<p><strong>Step 2:</strong>&nbsp; Get dressed</p>
+<p><strong>Step 3:</strong>&nbsp; Brush teeth</p>
+<p><strong>Step 4:</strong>&nbsp; Eat breakfast</p>
+<p><strong>Step 5:</strong>&nbsp; Go to school</p>
 <p>&nbsp;</p>
 <p><strong>The algorithm to add two numbers entered by user would look something like this:</strong></p>
-<p>Step 1: Start</p>
-<p>Step 2: Declare variables num1, num2 and sum.</p>
-<p>Step 3: Read values num1 and num2.</p>
-<p>Step 4: Add num1 and num2 and assign the result to sum.</p>
-<p>&nbsp;sum &larr; num1 + num2</p>
-<p>&nbsp;Step 5: Display sum</p>
-<p>Step 6: Stop</p>
+<p><strong>Step 1:</strong> Start</p>
+<p><strong>Step 2:</strong> Declare variables num1, num2 and sum.</p>
+<p><strong>Step 3:</strong> Read values num1 and num2.</p>
+<p><strong>Step 4:</strong> Add num1 and num2 and assign the result to sum.</p>
+<p>&nbsp;<strong>sum &larr; num1 + num2</strong></p>
+<p><strong>Step 5:</strong> Display sum</p>
+<p><strong>Step 6:</strong> Stop</p>
 <p>&nbsp;</p>
-<p>Two of these algorithms accomplish exactly the same goal, but each algorithm does it in completely different way to achieve the required output or to accomplish our task. In computer programming, there are often many different ways &ndash; algorithms (any well-defined computational procedure that takes some value, or set of values, as input and produces some value, or set of values as output) -- to accomplish any given task. Each algorithm has credits and demerits in different situations. If you have a million integer values between -2147483648 and +2147483647 and you need to sort them, the bin sort is the accurate algorithm to use. If you have a million book titles, the quick sort algorithm might be the best choice. By knowing the toughness and weaknesses of the different algorithms, you pick the best one to accomplish a specific task or to solve a specific problem.</p>
+<p>Two of these algorithms accomplish exactly the same goal, but each algorithm does it in completely different way to achieve the required output or to accomplish our task. In computer programming, there are often many different ways &ndash; algorithms (any well-defined computational procedure that takes some value, or set of values, as input and produces some value, or set of values as output) -- to accomplish any given task. Each algorithm has credits and demerits in different situations. If you have a million integer values between <strong>-2147483648</strong> and <strong>+2147483647</strong> and you need to sort them, the bin sort is the accurate algorithm to use. If you have a million book titles, the quick sort algorithm might be the best choice. By knowing the toughness and weaknesses of the different algorithms, you pick the best one to accomplish a specific task or to solve a specific problem.</p>
 <p>&nbsp;</p>
 <p>One of the most important aspects of an algorithm is how fast it can manipulate data in various ways, such as inserting a new data item, searching for a particular item or sorting an item. It is often easy to come up with a list of rules to follow in order to solve a problem, but if the algorithm is too slow, it's back to the drawing board. Efficiency of an algorithm depends on its design and implementation. Since every procedure or formula for solving a problem based on conducting a sequence of specified actions -- uses computer resources to run -- execution time and internal memory usage are important considerations to analyze an algorithm.</p>
 <p>&nbsp;</p>
 <p><strong>Why Study Algorithms?</strong></p>
-<p>Algorithms are the heart of computer science (usually means a procedure or basically instance of logic written in software that solves a recurrent problem of finding an item with specific properties among collection of items or transforming data according to specified actions to protect it), and the subject has countless practical applications as well as intellectual depth that is widely used throughout all areas of information technology including solving a mathematical problem (as of finding the greatest common divisor ) in a finite number of steps that often involves repetition of an operation. &nbsp;The word algorithm -- a mathematical concept whose roots date back to 600 AD with invention of the decimal system -- derives from the name of the ninth century Persian mathematician and geographer, Mohammed ibn-Musa al-Khwarizmi, who was part of the royal court in Baghdad and who lived from about 780 to 850. On the other hand, it turns out algorithms (widely recognized as the foundation of modern computer coding) have a long and distinguished history stretching back as far as the Babylonians.</p>
-<p>Although there is some available body of facts or information about early multiplication algorithms in Egypt (around 1700-2000 BC) the oldest algorithm is widely recognized to be valid or correct to have been found on a set of Babylonian clay tablets that date to around 1600 - 1800 BC. Their exact significance only came to be revealed or exposed around 1972 when an American computer scientist, mathematician, and professor emeritus at Stanford University Donald E. Knuth published the first English translations of various Babylonian cuneiform mathematical tablets.</p>
+<p>Algorithms are the heart of computer science (usually means a procedure or basically instance of logic written in software that solves a recurrent problem of finding an item with specific properties among collection of items or transforming data according to specified actions to protect it), and the subject has countless practical applications as well as intellectual depth that is widely used throughout all areas of information technology including solving a mathematical problem (as of finding the greatest common divisor ) in a finite number of steps that often involves repetition of an operation. &nbsp;The word algorithm -- a mathematical concept whose roots date back to 600 AD with invention of the decimal system -- derives from the name of the ninth century Persian mathematician and geographer, <a title="Mohammed ibn-Musa al-Khwarizmi" href="https://en.wikipedia.org/wiki/Muhammad_ibn_Musa_al-Khwarizmi" target="_blank">Mohammed ibn-Musa al-Khwarizmi</a>, who was part of the royal court in Baghdad and who lived from about 780 to 850. On the other hand, it turns out algorithms (widely recognized as the foundation of modern computer coding) have a long and distinguished history stretching back as far as the Babylonians.</p>
+<p>Although there is some available body of facts or information about early multiplication algorithms in Egypt (around 1700-2000 BC) the oldest algorithm is widely recognized to be valid or correct to have been found on a set of Babylonian clay tablets that date to around 1600 - 1800 BC. Their exact significance only came to be revealed or exposed around 1972 when an American computer scientist, mathematician, and professor emeritus at Stanford University <a title="Donald E. Knuth" href="https://en.wikipedia.org/wiki/Donald_Knuth" target="_blank">Donald E. Knuth</a> published the first English translations of various Babylonian cuneiform mathematical tablets.</p>
 <p>Here are some short extracts from his 1972 manuscript that explain these early algorithms:-</p>
-<p>"The calculations described in Babylonian tablets are not merely the solutions to specific individual problems; they are actually general procedures for solving a whole class of problems." - Pages 672 to 673 of "Ancient Babylonian Algorithms".</p>
+<p><strong>"The calculations described in Babylonian tablets are not merely the solutions to specific individual problems; they are actually general procedures for solving a whole class of problems." - Pages 672 to 673 of "Ancient Babylonian Algorithms".</strong></p>
 <p>The wedge-shaped marks on clay tablets also seem to have been an early form of instruction manual:-</p>
-<p>"Note also the stereotyped ending, 'This is the procedure,' which is commonly found at the end of each section on a table. Thus the Babylonian procedures are genuine algorithms, and we can commend the Babylonians for developing a nice way to explain an algorithm by example as the algorithm itself was being defined...." - Pages 672 to 673 of&nbsp; "Ancient Babylonian Algorithms".</p>
+<p><strong>"Note also the stereotyped ending, 'This is the procedure,' which is commonly found at the end of each section on a table. Thus the Babylonian procedures are genuine algorithms, and we can commend the Babylonians for developing a nice way to explain an algorithm by example as the algorithm itself was being defined...." - Pages 672 to 673 of&nbsp; "Ancient Babylonian Algorithms".</strong></p>
 <p>&nbsp;</p>
 <p>The use of computers, however, has raised the use of algorithms in daily transactions (like accessing an automated teller machine (ATM ), booking an air or train or buying something online) to unprecedented levels of real-world problems with solutions requiring advanced algorithms abounds. From Google search to morning routines, algorithms are ubiquitous in our everyday life -- and their use is only likely to grow to break down tasks into chunks that can be solved through specific implementations. Many of the problems, though they may not seem realistic, need the set of well-defined algorithmic knowledge that comes up every day in the real world. By developing a good understanding of a series of logical steps in an algorithmic language, you will be able to choose the right one for a problem and apply it properly. Different algorithms play different roles in programming &ndash; and algorithms are used by computer programs where a program &ndash;</p>
 <ul>
@@ -61,7 +60,7 @@
 
 
 
-<h3>Best Algorithm Books: 250+ Books to Read and Distinguish Yourself</h3>
+<h3>Best Algorithm Books to Read and Distinguish Yourself</h3>
 
 <hr>
 
