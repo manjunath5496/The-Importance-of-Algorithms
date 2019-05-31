@@ -1,4 +1,4 @@
-<p><strong>Introduction</strong></p>
+<p><strong>Introduction</strong></p><hr>
 <p>You might have an algorithm for getting from office to home, for making a chunk of code that calculates the terms of the Fibonacci sequence, or for finding what you&rsquo;re looking for in a retail store. &nbsp;Algorithms are the building blocks of computer programs or sequence of unambiguous instructions ( the term 'unambiguous' indicates that there is no room for subjective interpretation) that tells how the problem could be addressed and solved -- which is definitely overblown in their importance like road maps for accomplishing a given, well-defined automated reasoning task -- which always have a clear stopping point.</p>
 <p>Long division and column addition are examples that everyone is familiar with -- even a simple function for adding two numbers is implementation of a particular algorithm. Online grammar checking uses algorithms. Financial computations use algorithms. Robotic field uses algorithms for controlling their robot using algorithms. An encryption algorithm transforms data according to specified actions to protect it. &nbsp;A search engine like Google uses search engine algorithms (such as, takes search strings of keywords as input, searches its associated database for relevant web pages, and returns results). In fact, it is difficult to think of a task performed by your computer that does not use computer rules that are a lot like a recipes (called algorithms).</p>
 <p>The use of computer algorithms (step-by-step techniques used for Problem-solving) plays an essential role in space search programs. Scientists have to use enormous calculations, and they are managed by high-end supercomputers, which are enriched with detailed sets of instructions that computers follow to arrive at an answer. Algorithms have applications in many different disciplines from science to math to physics and, of course, computing -- and provide us the most ideal option of accomplishing a task. Here is some importance of algorithms in computer programming.</p>
@@ -56,9 +56,6 @@
 </ul>
 <p>You only need to define your problem then select the right algorithm to use.</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-
-
 
 <h3>Best Algorithm Books to Read and Distinguish Yourself</h3>
 
