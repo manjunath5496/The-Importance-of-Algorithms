@@ -1,31 +1,64 @@
 <p><strong>Introduction</strong></p>
-<hr>
-<p style="text-align: justify;">You might have an algorithm for getting from office to home, for making a chunk of code that calculates the terms of the Fibonacci sequence, or for finding what you&rsquo;re looking for in a retail store. Algorithms are very important in computer Science. Algorithms are the building blocks of computer programs or sequence of unambiguous instructions ( the term 'unambiguous' indicates that there is no room for subjective interpretation) that tells how the problem could be addressed and solved -- which is definitely overblown in their importance like road maps for accomplishing a given, well-defined automated reasoning task -- which always have a clear stopping point.</p>
+<p>You might have an algorithm for getting from office to home, for making a chunk of code that calculates the terms of the Fibonacci sequence, or for finding what you&rsquo;re looking for in a retail store. &nbsp;Algorithms are the building blocks of computer programs or sequence of unambiguous instructions ( the term 'unambiguous' indicates that there is no room for subjective interpretation) that tells how the problem could be addressed and solved -- which is definitely overblown in their importance like road maps for accomplishing a given, well-defined automated reasoning task -- which always have a clear stopping point.</p>
+<p>Long division and column addition are examples that everyone is familiar with -- even a simple function for adding two numbers is implementation of a particular algorithm. Online grammar checking uses algorithms. Financial computations use algorithms. Robotic field uses algorithms for controlling their robot using algorithms. An encryption algorithm transforms data according to specified actions to protect it. &nbsp;A search engine like Google uses search engine algorithms (such as, takes search strings of keywords as input, searches its associated database for relevant web pages, and returns results). In fact, it is difficult to think of a task performed by your computer that does not use computer rules that are a lot like a recipes (called algorithms).</p>
+<p>The use of computer algorithms (step-by-step techniques used for Problem-solving) plays an essential role in space search programs. Scientists have to use enormous calculations, and they are managed by high-end supercomputers, which are enriched with detailed sets of instructions that computers follow to arrive at an answer. Algorithms have applications in many different disciplines from science to math to physics and, of course, computing -- and provide us the most ideal option of accomplishing a task. Here is some importance of algorithms in computer programming.</p>
+<ul>
+<li><strong>To improve the effectiveness of a computer program: </strong>An algorithm (procedure or formula for solving a problem, based on conducting a sequence of specified actions) can be used to improve the speed at which a program executes a problem and has the potential of reducing the time that a program takes to solve a problem.</li>
+<li><strong>Proper usage of resources: </strong>The right selection of an algorithm will ensure that a program consumes the least amount of memory. Apart from memory, the algorithm can determine the amount of processing power that is needed by a program.</li>
+</ul>
+<p><strong>&nbsp;</strong></p>
+<p><strong>The algorithm for a child's morning routine could be the following:</strong></p>
+<p>Step 1:&nbsp; Wake up and turn off alarm</p>
+<p>Step 2:&nbsp; Get dressed</p>
+<p>Step 3:&nbsp; Brush teeth</p>
+<p>Step 4:&nbsp; Eat breakfast</p>
+<p>Step 5:&nbsp; Go to school</p>
 <p>&nbsp;</p>
-<p style="text-align: justify;">Long division and column addition are examples that everyone is familiar with -- even a simple function for adding two numbers is implementation of a particular algorithm. Online grammar checking uses algorithms. Financial computations use algorithms. A search engine like Google uses search engine algorithms (such as, takes search strings of keywords as input, searches its associated database for relevant web pages, and returns results). In fact, it is difficult to think of a task performed by your computer that does not use computer rules that are a lot like a recipes (called algorithms).</p>
 <p>&nbsp;</p>
 <p><strong>The algorithm to add two numbers entered by user would look something like this:</strong></p>
-<hr>
-<p>&nbsp; Step 1: Start</p>
+<p>Step 1: Start</p>
+<p>Step 2: Declare variables num1, num2 and sum.</p>
+<p>Step 3: Read values num1 and num2.</p>
+<p>Step 4: Add num1 and num2 and assign the result to sum.</p>
+<p>&nbsp;sum &larr; num1 + num2</p>
+<p>&nbsp;Step 5: Display sum</p>
+<p>Step 6: Stop</p>
 <p>&nbsp;</p>
-<p>&nbsp; Step 2: Declare variables num1, num2 and sum.</p>
+<p>Two of these algorithms accomplish exactly the same goal, but each algorithm does it in completely different way to achieve the required output or to accomplish our task. In computer programming, there are often many different ways &ndash; algorithms (any well-defined computational procedure that takes some value, or set of values, as input and produces some value, or set of values as output) -- to accomplish any given task. Each algorithm has credits and demerits in different situations. If you have a million integer values between -2147483648 and +2147483647 and you need to sort them, the bin sort is the accurate algorithm to use. If you have a million book titles, the quick sort algorithm might be the best choice. By knowing the toughness and weaknesses of the different algorithms, you pick the best one to accomplish a specific task or to solve a specific problem.</p>
 <p>&nbsp;</p>
-<p>&nbsp; Step 3: Read values num1 and num2.</p>
+<p>One of the most important aspects of an algorithm is how fast it can manipulate data in various ways, such as inserting a new data item, searching for a particular item or sorting an item. It is often easy to come up with a list of rules to follow in order to solve a problem, but if the algorithm is too slow, it's back to the drawing board. Efficiency of an algorithm depends on its design and implementation. Since every procedure or formula for solving a problem based on conducting a sequence of specified actions -- uses computer resources to run -- execution time and internal memory usage are important considerations to analyze an algorithm.</p>
 <p>&nbsp;</p>
-<p>&nbsp; Step 4: Add num1 and num2 and assign the result to sum.</p>
+<p><strong>Why Study Algorithms?</strong></p>
+<p>Algorithms are the heart of computer science (usually means a procedure or basically instance of logic written in software that solves a recurrent problem of finding an item with specific properties among collection of items or transforming data according to specified actions to protect it), and the subject has countless practical applications as well as intellectual depth that is widely used throughout all areas of information technology including solving a mathematical problem (as of finding the greatest common divisor ) in a finite number of steps that often involves repetition of an operation. &nbsp;The word algorithm -- a mathematical concept whose roots date back to 600 AD with invention of the decimal system -- derives from the name of the ninth century Persian mathematician and geographer, Mohammed ibn-Musa al-Khwarizmi, who was part of the royal court in Baghdad and who lived from about 780 to 850. On the other hand, it turns out algorithms (widely recognized as the foundation of modern computer coding) have a long and distinguished history stretching back as far as the Babylonians.</p>
+<p>Although there is some available body of facts or information about early multiplication algorithms in Egypt (around 1700-2000 BC) the oldest algorithm is widely recognized to be valid or correct to have been found on a set of Babylonian clay tablets that date to around 1600 - 1800 BC. Their exact significance only came to be revealed or exposed around 1972 when an American computer scientist, mathematician, and professor emeritus at Stanford University Donald E. Knuth published the first English translations of various Babylonian cuneiform mathematical tablets.</p>
+<p>Here are some short extracts from his 1972 manuscript that explain these early algorithms:-</p>
+<p>"The calculations described in Babylonian tablets are not merely the solutions to specific individual problems; they are actually general procedures for solving a whole class of problems." - Pages 672 to 673 of "Ancient Babylonian Algorithms".</p>
+<p>The wedge-shaped marks on clay tablets also seem to have been an early form of instruction manual:-</p>
+<p>"Note also the stereotyped ending, 'This is the procedure,' which is commonly found at the end of each section on a table. Thus the Babylonian procedures are genuine algorithms, and we can commend the Babylonians for developing a nice way to explain an algorithm by example as the algorithm itself was being defined...." - Pages 672 to 673 of&nbsp; "Ancient Babylonian Algorithms".</p>
 <p>&nbsp;</p>
-<p>&nbsp; sum &larr; num1 + num2</p>
+<p>The use of computers, however, has raised the use of algorithms in daily transactions (like accessing an automated teller machine (ATM ), booking an air or train or buying something online) to unprecedented levels of real-world problems with solutions requiring advanced algorithms abounds. From Google search to morning routines, algorithms are ubiquitous in our everyday life -- and their use is only likely to grow to break down tasks into chunks that can be solved through specific implementations. Many of the problems, though they may not seem realistic, need the set of well-defined algorithmic knowledge that comes up every day in the real world. By developing a good understanding of a series of logical steps in an algorithmic language, you will be able to choose the right one for a problem and apply it properly. Different algorithms play different roles in programming &ndash; and algorithms are used by computer programs where a program &ndash;</p>
+<ul>
+<li>Get input data.</li>
+<li>Process it using the complex logics.</li>
+<li>Stop when it finds an answer or some conditions are met.</li>
+<li>Produce the desired output.</li>
+</ul>
+<p><strong>To give you a better picture, here is the most common type of algorithms:</strong></p>
+<ul>
+<li>Searching Algorithms</li>
+<li>Sorting Algorithms</li>
+<li>Path finding Algorithms</li>
+<li>Tree and graph based algorithms</li>
+<li>Approximate Algorithms</li>
+<li>Compression Algorithms</li>
+<li>Random Algorithms</li>
+<li>Pattern Matching</li>
+<li>Sequence Finding and a lot more</li>
+</ul>
+<p>You only need to define your problem then select the right algorithm to use.</p>
 <p>&nbsp;</p>
-<p>&nbsp; Step 5: Display sum</p>
 <p>&nbsp;</p>
-<p>&nbsp;&nbsp;Step 6: Stop</p>
-<p>&nbsp;</p>
-<p><strong>The Importance of Algorithms</strong></p>
-<hr>
-<p>Algorithms are the heart of computer science (usually means a procedure or basically instance of logic written in software that solves a recurrent problem of finding an item with specific properties among collection of items or transforming data according to specified actions to protect it), and the subject has countless practical applications as well as intellectual depth that is widely used throughout all areas of information technology including solving a mathematical problem (as of finding the greatest common divisor ) in a finite number of steps that often involves repetition of an operation . The word algorithm -- a mathematical concept whose roots date back to 600 AD with invention of the decimal system - - derives from the name of the Muslim mathematician and astronomer , Mohammed ibn-Musa al-Khwarizmi , who was part of the royal court in Baghdad and who lived from about 780 to 850.</p>
-<p>&nbsp;</p>
-<p>The use of computers, however, has raised the use of algorithms in daily transactions (like accessing an automated teller machine (ATM ), booking an air or train or buying something online ) to unprecedented levels of real-world problems with solutions requiring advanced algorithms abounds . And their use is only likely to grow. Many of the problems, though they may not seem realistic, need the set of well-defined algorithmic knowledge that comes up every day in the real world. By developing a good understanding of a series of logical steps in an algorithmic language, you will be able to choose the right one for a problem and apply it properly.</p>
-<p>&nbsp;</p>
+
 
 
 <h3>Best Algorithm Books: 250+ Books to Read and Distinguish Yourself</h3>
