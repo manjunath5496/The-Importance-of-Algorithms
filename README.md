@@ -61,9 +61,9 @@
 <li>How can we tell if a number is prime?</li>
 <li>Given a list of ten numbers in random order, how can we put them order?</li>
 </ul>
-<p style="text-align: justify;">&nbsp;</p>
-<p style="text-align: justify;">Algorithms has shown it can yield results in all industries &mdash; from predicting insurance sales opportunities and generating the millions of search inquiries every day to automating medicine research, optimizing transportation routes, and much more. While algorithms help companies like Master Card and Visa to keep their users' information, such as card number, password, and bank statement safely -- algorithms aren't perfect. They fail and some fail spectacularly. Over the past few years, there have been some serious fails with algorithms, which are the formulas or sets of rules used in digital decision-making processes. Now people are questioning whether we're putting too much trust in the algorithms. When algorithms go bad: Online failures show humans are still needed. Disturbing events at Facebook, Instagram and Amazon reveal the importance of context.</p>
 
+<p style="text-align: justify;">Algorithms has shown it can yield results in all industries &mdash; from predicting insurance sales opportunities and generating the millions of search inquiries every day to automating medicine research, optimizing transportation routes, and much more. While algorithms help companies like Master Card and Visa to keep their users' information, such as card number, password, and bank statement safely -- algorithms aren't perfect. They fail and some fail spectacularly. Over the past few years, there have been some serious fails with algorithms, which are the formulas or sets of rules used in digital decision-making processes. Now people are questioning whether we're putting too much trust in the algorithms. When algorithms go bad: Online failures show humans are still needed. Disturbing events at Facebook, Instagram and Amazon reveal the importance of context.</p>
+<p style="text-align: justify;">&nbsp;</p>
 <h3>Best Algorithm Books to Read and Distinguish Yourself</h3>
 
 <hr>
