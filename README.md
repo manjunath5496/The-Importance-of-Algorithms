@@ -54,8 +54,15 @@
 <li>Pattern Matching</li>
 <li>Sequence Finding and a lot more</li>
 </ul>
-<p>You only need to define your problem then select the right algorithm to use.</p>
-<p>&nbsp;</p>
+<p style="text-align: justify;"><em></em>You only need to define your problem then select the right algorithm to use.&nbsp; The word <strong>algorithm</strong> may not appear closely connected to kids, but the truth is that -- for kids -- understanding the process of building a step by step method of solving a problem helps them build a strong foundation in logical thinking and problem solving. Here are some problems you can ask your kid to discuss algorithmic solutions with you:</p>
+<ul style="text-align: justify;">
+<li>How do we know if a number is odd or even?</li>
+<li>How do we calculate all of the factors of a number?</li>
+<li>How can we tell if a number is prime?</li>
+<li>Given a list of ten numbers in random order, how can we put them order?</li>
+</ul>
+<p style="text-align: justify;">&nbsp;</p>
+<p style="text-align: justify;">Algorithms has shown it can yield results in all industries &mdash; from predicting insurance sales opportunities and generating the millions of search inquiries every day to automating medicine research, optimizing transportation routes, and much more. While algorithms help companies like Master Card and Visa to keep their users' information, such as card number, password, and bank statement safely -- algorithms aren't perfect. They fail and some fail spectacularly. Over the past few years, there have been some serious fails with algorithms, which are the formulas or sets of rules used in digital decision-making processes. Now people are questioning whether we're putting too much trust in the algorithms. When algorithms go bad: Online failures show humans are still needed. Disturbing events at Facebook, Instagram and Amazon reveal the importance of context.</p>
 
 <h3>Best Algorithm Books to Read and Distinguish Yourself</h3>
 
